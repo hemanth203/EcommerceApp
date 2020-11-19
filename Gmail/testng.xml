@@ -8,8 +8,9 @@
   	
     <classes>
       <class name="com.google.gmail.testscripts.TC001"/>
-     <!--  <class name="com.google.gmail.testscripts.TC002"/>
-      <class name="com.google.gmail.testscripts.TC003"/> -->
+      <class name="com.google.gmail.testscripts.TC002"/>
+      <class name="com.google.gmail.testscripts.TC003"/>
+      <class name="com.google.gmail.testscripts.TC004"/>
     </classes>
   </test> <!-- Test -->
   <test thread-count="5" name="FirefoxTest">
@@ -18,8 +19,9 @@
   	<parameter name="ETO" value="15"></parameter>
     <classes>
       <class name="com.google.gmail.testscripts.TC001"/>
-     <!--  <class name="com.google.gmail.testscripts.TC002"/>
-      <class name="com.google.gmail.testscripts.TC003"/> -->
+      <class name="com.google.gmail.testscripts.TC002"/>
+      <class name="com.google.gmail.testscripts.TC003"/>
+      <class name="com.google.gmail.testscripts.TC004"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
