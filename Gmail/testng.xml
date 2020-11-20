@@ -10,12 +10,4 @@
       <class name="com.google.gmail.testscripts.TC001"/>
     </classes>
   </test> <!-- Test -->
-  <test thread-count="5" name="FirefoxTest">
-  	<parameter name="browserName" value="firefox"></parameter>
-  	<parameter name="ITO" value="15"></parameter>
-  	<parameter name="ETO" value="15"></parameter>
-    <classes>
-      <class name="com.google.gmail.testscripts.TC001"/>
-    </classes>
-  </test> <!-- Test -->
 </suite> <!-- Suite -->
